@@ -21,7 +21,7 @@ The different sections are depicted in the different files as mentioned below:
 
 - [x] Create Repo
 - [x] Design and update the README.md file
-- [ ] Create the sectional files
+- [x] Create the sectional files
 - [ ] Complete the file linux_commands.md
 - [ ] Complete the file git_commands.md
 - [ ] Complete the file collaborative_working_with_Git.md
