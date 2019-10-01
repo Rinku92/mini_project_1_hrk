@@ -1,0 +1,1 @@
+﻿﻿# collaborative working with Git### **Git Vs GitHub:****Git:**- Git is the command line version control system (VCS) software which works on your local computer.- You need Git to use GitHub. You can use Git locally without GitHub.
