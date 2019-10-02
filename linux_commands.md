@@ -20,6 +20,29 @@ This command is used to change directories. For example, in order to change to d
 
 `$> cd linux2`
 
+**mkdir:**
+
+This command is used to create new  directories. For example, in order to create a new directory "linux3", use the following command:
+
+`$> mkdir linux3`
+
+**cp:**
+
+This command is used to copy files and directories from one place to another. The format is always
+
+`$> cp <source> <destination>`
+
+For example, in order to copy the file linux4.md into the folder linux5, use the following command:
+
+`$> cp linux4.md linux5`
+
+*Bonus:* You can use this command to rename files. 
+
+Eg.: In order to rename a file abc.txt to def.txt, use the following command:
+
+`$> cp abc.txt def.txt`
+
+
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
