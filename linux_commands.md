@@ -126,8 +126,10 @@ For example, the file linux3.md in my working directory can be read using
 
 This can be understood by a simple image:
 
+![File Path in Linux](images/k_absolutePathNames.jpg)
 
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
 2. http://www.linfo.org/home_directory.html
+3. https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/
