@@ -157,6 +157,11 @@ The Vi editor is the most popular and classic text editor in the Linux family. I
 - It works the same across different platforms and Distributions
 - It is user-friendly. Hence, millions of Linux users love it and use it for their editing needs
 
+**Command Mode**
+
+This is what you’ll see when you open a file in vi. It looks like you can just start typing, but you can’t. Vi is a modal text editor, and it opens in command mode. 
+
+In this mode, you can, move the cursor and cut, copy, paste the text. Position the cursor at the left or right side of the text you want to copy and press the v key. Move your cursor to select text, and then press y to copy the selected text or x to cut it. Position your cursor at the desired location and press the p key to paste the text you copied or cut.
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
