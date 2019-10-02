@@ -104,6 +104,30 @@ The tilde (the wavy horizontal line character) is used to represent users' home 
 
 `$> cd ~ ` 
 
+**File paths in Linux:**
+
+ There are two types of file paths in Linux:
+- Absolute filepath
+- Relative filepath
+
+*Absolute Path:*
+An absolute path is defined as the specifying the location of a file or directory from the root directory(/).
+
+For example, the file linux3.md in my working directory will be 
+
+`$> cat /home/kaustav/linux3.md`
+
+*Relative Path:*
+Relative path is defined as the path related to the present working directly(pwd).
+
+For example, the file linux3.md in my working directory can be read using
+
+`$> cat linux3.md`
+
+This can be understood by a simple image:
+
+
+
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
 2. http://www.linfo.org/home_directory.html
