@@ -202,7 +202,36 @@ Type :wq and press enter to write the file to disk and quit vi. You can also spl
 | S          | Substitute entire line and begin to insert at the beginning of the line                         |
 | ~          | Change case of individual character                                                             |
 
+**vi : Moving within a file**
 
+You need to be in the command mode to move within a file. The default keys for navigation are mentioned below else; You can also use the arrow keys on the keyboard.
+
+| Keystroke | Use               |
+|-----------|-------------------|
+| k         | Move cursor up    |
+| j         | Move cursor down  |
+| h         | Move cursor left  |
+| l         | Move cursor right |
+
+
+**vi : Saving and Closing the file**
+
+You should be in the command mode to exit the editor and save changes to the file.
+
+
+| Keystroke | Use                            |
+|-----------|--------------------------------|
+| Shift+zz  | Save the file and quit         |
+| :w        | Save the file but keep it open |
+| :q        | Quit without saving            |
+| :wq       | Save the file and quit         |
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
