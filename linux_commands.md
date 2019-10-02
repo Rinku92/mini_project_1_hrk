@@ -128,6 +128,19 @@ This can be understood by a simple image:
 
 ![File Path in Linux](images/k_absolutePathNames.jpg)
 
+### Linux Tricks
+
+**Using tab key for autocomplete:**
+
+We can use the Tab key to autocomplete file and directory names while using the "*ls*" and "*cd*" commands.
+
+For example: If I want to traverse to the path /home/kaustav/linux3.md, I can easily wite /home/kaustav/l and press the TAB key for autocomplete. 
+
+```
+$> cd /home/kaustav/l<TAB>
+$> cd /home/kaustav/linux3.md
+```
+
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
