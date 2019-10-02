@@ -147,6 +147,16 @@ This is one of most useful trick I have learnt in Linux! Tired of typing similar
 
 Then the UP/DOWN keys are here to help. Just press the UP key to traverse through the previous commands you have typed. The DOWN key is generally used to going through the history of commands.
 
+## Using Vi
+
+**What is Vi?**
+
+The Vi editor is the most popular and classic text editor in the Linux family. It is included with most Linux systems, even embedded ones. Below are some of the reasons why it is popular:
+
+- It is available in almost all Linux Distributions
+- It works the same across different platforms and Distributions
+- It is user-friendly. Hence, millions of Linux users love it and use it for their editing needs
+
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
