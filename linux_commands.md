@@ -72,5 +72,20 @@ This command is used to remove/delete files or directories. For example, in orde
 
 `$> rm -r linux4`
 
+**history:**
+
+The history command keeps a list of all the other commands that have been run from that terminal session and then allows you to replay or reuse those commands instead of retyping them again. 
+Eg:
+
+```
+$> history
+  495  git push
+  496  git push --set-upstream origin master
+  497  cd random_repo
+  498  git push
+  499  git add .
+  500  history
+
+```
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
