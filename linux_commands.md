@@ -42,6 +42,18 @@ Eg.: In order to rename a file abc.txt to def.txt, use the following command:
 
 `$> cp abc.txt def.txt`
 
+**pwd:**
+
+This command is used to print the working directory. It is useful to know the current path or working directory and helps when lost! 
+
+Use the following syntax:
+
+```
+$> pwd
+
+/Users/kaustav/class601/mini_project_1_hrk 
+```
+
 
 
 **References:**
