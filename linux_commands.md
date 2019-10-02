@@ -171,7 +171,15 @@ Start typing and Vi will insert the characters you type into the file rather tha
 
 Once you’re done in insert mode, press the escape key to return to command mode.
 
+**Saving & Quiting**
+
+You can save and quit vi from command mode. First, ensure you’re in command mode by pressing the escape key (pressing the escape key again does nothing if you’re already in command mode.)
+
+Type :wq and press enter to write the file to disk and quit vi. You can also split this command up — for example, type :w and press enter to write the file to disk without quitting or type :q to quit vi without saving the file.
+
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
 2. http://www.linfo.org/home_directory.html
 3. https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/
+4. https://www.guru99.com/the-vi-editor.html
+5. https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/
