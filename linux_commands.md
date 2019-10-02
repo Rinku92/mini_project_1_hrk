@@ -36,11 +36,7 @@ For example, in order to copy the file linux4.md into the folder linux5, use the
 
 `$> cp linux4.md linux5`
 
-*Bonus:* You can use this command to rename files. 
-
-Eg.: In order to rename a file abc.txt to def.txt, use the following command:
-
-`$> cp abc.txt def.txt`
+*Bonus:* This command will only create a copy of the source file or directory.
 
 **pwd:**
 
@@ -53,8 +49,17 @@ $> pwd
 
 /Users/kaustav/class601/mini_project_1_hrk 
 ```
+**mv:**
 
+This command is used to move a file or directory from one location to another. For example, in order to move the file linux4.md into the folder linux5, use the following command:
 
+`$> mv linux4.md linux5`
+
+*Bonus:* You can use this command to rename files. 
+
+Eg.: In order to rename a file abc.txt to def.txt, use the following command:
+
+`$> mv abc.txt def.txt`
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
