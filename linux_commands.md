@@ -61,5 +61,16 @@ Eg.: In order to rename a file abc.txt to def.txt, use the following command:
 
 `$> mv abc.txt def.txt`
 
+**rm:**
+
+This command is used to remove/delete files or directories. For example, in order to remove a file "linux3.md", use the following command:
+
+`$> rm linux3.md`
+
+*Bonus:* You can also remove a directory and its contents recursively using this command: 
+
+
+`$> rm -r linux4`
+
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
