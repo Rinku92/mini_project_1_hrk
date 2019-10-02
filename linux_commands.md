@@ -163,6 +163,14 @@ This is what you’ll see when you open a file in vi. It looks like you can just
 
 In this mode, you can, move the cursor and cut, copy, paste the text. Position the cursor at the left or right side of the text you want to copy and press the v key. Move your cursor to select text, and then press y to copy the selected text or x to cut it. Position your cursor at the desired location and press the p key to paste the text you copied or cut.
 
+**Insert Mode**
+
+This mode is for inserting text in the file. You can switch to the Insert mode from the command mode  by *pressing 'i'* on the keyboard.
+
+Start typing and Vi will insert the characters you type into the file rather than trying to interpret them as commands.
+
+Once you’re done in insert mode, press the escape key to return to command mode.
+
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
 2. http://www.linfo.org/home_directory.html
