@@ -141,6 +141,12 @@ $> cd /home/kaustav/l<TAB>
 $> cd /home/kaustav/linux3.md
 ```
 
+**Using up/down key for history:**
+
+This is one of most useful trick I have learnt in Linux! Tired of typing similar commands over and over again? 
+
+Then the UP/DOWN keys are here to help. Just press the UP key to traverse through the previous commands you have typed. The DOWN key is generally used to going through the history of commands.
+
 
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
