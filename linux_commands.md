@@ -87,5 +87,23 @@ $> history
   500  history
 
 ```
+
+## Other Linux Concepts and Tricks
+
+Let's see some of the Linux concepts and tricks commonly used in this parlance.
+
+**Home directory:**
+
+A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.
+
+You can go to the home directory (regardless of the current directory) using the following command:
+
+`$> cd` 
+
+The tilde (the wavy horizontal line character) is used to represent users' home directories on Unix-like operating systems, including users' home directories that are used to store web pages on Unix-like web servers. Thus, a user could also return to its home directory by using the tilde as an argument to cd, i.e.,
+
+`$> cd ~ ` 
+
 **References:**
 1. https://en.wikipedia.org/wiki/History_of_Linux
+2. http://www.linfo.org/home_directory.html
