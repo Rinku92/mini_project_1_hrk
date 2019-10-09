@@ -23,8 +23,8 @@ The different sections are depicted in the different files as mentioned below:
 - [x] Design and update the README.md file
 - [x] Create the sectional files
 - [x] Complete the file linux_commands.md
-- [ ] Complete the file git_commands.md
-- [ ] Complete the file collaborative_working_with_Git.md
-- [ ] Final update(fix) to the README file
-- [ ] Submit github link to the assignment in Canvas
+- [x] Complete the file git_commands.md
+- [x] Complete the file collaborative_working_with_Git.md
+- [x] Final update(fix) to the README file
+- [x] Submit github link to the assignment in Canvas
 
