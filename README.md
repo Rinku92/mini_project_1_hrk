@@ -26,5 +26,5 @@ The different sections are depicted in the different files as mentioned below:
 - [x] Complete the file git_commands.md
 - [x] Complete the file collaborative_working_with_Git.md
 - [x] Final update(fix) to the README file
-- [ ] Submit github link to the assignment in Canvas
+- [x] Submit github link to the assignment in Canvas
 
