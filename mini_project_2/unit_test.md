@@ -1,0 +1,1 @@
+﻿﻿﻿## **Unit Test**Unit Testing is the first level of software testing where the smallest testable parts of a software are tested. This is used to validate that each unit of the software performs as designed.The unittest test framework is python’s xUnit style framework. [More Info](https://docs.python.org/2/library/unittest.html)
