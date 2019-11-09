@@ -16,6 +16,8 @@ The different sections are depicted in the different files as mentioned below:
 - *[git_commands](git_commands.md "Git Commands"):* Describes the basic git commands along with gitFlow
 - *[collaborative_working_with_Git](collaborative_working_with_Git.md "collaborative_working_with_Git"):* Describes the important concepts of Git like forking vs. cloning, pull request etc.
 
+- *[mini_project_2](mini_project_2 "mini_project_2"):* Contains the descriptions of all the concepts introduced in mini project 2
+
 
 **To do list:**
 
@@ -27,4 +29,6 @@ The different sections are depicted in the different files as mentioned below:
 - [x] Complete the file collaborative_working_with_Git.md
 - [x] Final update(fix) to the README file
 - [x] Submit github link to the assignment in Canvas
+- [ ] Update descriptions of concepts for mini project 2
+- [ ] Submit github link to the assignment in Canvas (mini project 2)
 
