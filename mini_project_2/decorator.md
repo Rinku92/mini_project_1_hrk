@@ -21,4 +21,4 @@ the_main_one()
 ```
 
 **Reference:**
-- [https://www.geeksforgeeks.org/constructors-in-python/](https://www.geeksforgeeks.org/constructors-in-python/)
+- [https://www.geeksforgeeks.org/decorators-in-python/](https://www.geeksforgeeks.org/decorators-in-python/)
